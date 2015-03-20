@@ -78,7 +78,7 @@ h1. Basic usage
 
 /etc/ansible/hosts
 ```
-[kdap]
+[hadoop]
 hadoop[1:52]
 
 [mysql]
