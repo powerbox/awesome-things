@@ -35,6 +35,8 @@ ex)
 root@localhost#kill -9 httpd     // httpd 데몬을 실행중인 특정 프로세스에 9번시그널전달(강제종료)
 ``` 
 
+----
+
 # killall
  
 흔히들 kill과 killall명령어를 프로세스를 죽이는 명령어라고 하시는데
