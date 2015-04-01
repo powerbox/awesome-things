@@ -15,7 +15,8 @@ root@localhost#pkill [-Signal] [프로세스명1] [프로세스명2] .......
 ex)
 root@localhost#pkill -9 httpd   // httpd 데몬을 실행중인 특정 프로세스에 9번시그널전달(강제종료)
 ``` 
- 
+
+----
 
 # kill
  
