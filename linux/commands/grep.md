@@ -134,7 +134,15 @@ word - word comprises of a sequence of letters, digits and underscores.
 Example to depict the difference between WORD and word
 * 192.168.1.1 - single WORD
 * 192.168.1.1 - seven words.
+```
 
+# 특정단어 제외하고 매칭 (grep 자신을 빼고 싶을 때)
+```
+ps -ef |grep httpd |grep -v grep
+```
+
+
+```
 10. display the lines which does not matches all the given pattern.
 Syntax:
 grep -v -e "pattern" -e "pattern"
