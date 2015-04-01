@@ -1,4 +1,4 @@
-<pre>
+```
 You first need to create the following demo_file to use in the examples below to show grep command.
 $ cat demo_file
 THIS LINE IS THE 1ST UPPER CASE LINE IN THIS FILE.
@@ -203,4 +203,4 @@ $ grep -n "go" demo_text
 10: * W - go to the next WORD.
 
 Via thegeekstuff.com 
-</pre>
+```
